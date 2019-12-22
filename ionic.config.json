@@ -1,5 +1,7 @@
 {
   "name": "Ionic4AuthGaurds",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
